@@ -17,5 +17,5 @@ A third year Computer Science student looking to join the Software Design Team w
 - Winpak General Labourer | May 2021 - Sept 2021
 # Skills
 - Attention to Detail
-- Speak French
+- Speaks French
 - Adaptable
