@@ -8,8 +8,10 @@ A third year Computer Science student looking to join the Software Design Team w
 
 Education
 ---------
-- University of Manitoba | Computer Science Student | Sept 2019 - Present
-- High School | Graduate | Sept 2013 - June 2019
+- University of Manitoba Computer Science Student
+  - Sept 2019 - Present
+- High School Graduate
+  - Sept 2013 - June 2019
 
 Relevant Courses
 ---------------
@@ -22,8 +24,10 @@ Relevant Courses
 
 Work History
 ------------
-- Magellan Aerospace Software Student | May 2022 - Present
-- Winpak General Labourer | May 2021 - Sept 2021
+- Magellan Aerospace Software Student
+  - May 2022 - Present
+- Winpak General Labourer
+  - May 2021 - Sept 2021
 
 Skills
 ------
