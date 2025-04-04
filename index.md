@@ -17,7 +17,7 @@ Major Functionality
 
 Team Members Development Takeaways
 ------------
-### Hoang Huy Truong
+### Hoang Huy Truong - Learning Outcome
 Throughout the development process, I had opportunities to interact Mockito and AndroidJUnit4 testing frameworks and gained valuable experience on writing effective unit, integration and system tests, understanding the importance of test driven development technique. Additionally, I also learned how to utilize and promote three layer architecture, which is commonly used by many systems nowadays, to build entire application.
 
 ### Ryan Mack - Learning Outcome
