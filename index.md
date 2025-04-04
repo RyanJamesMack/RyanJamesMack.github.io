@@ -35,4 +35,6 @@ Skills
 - Speaks French
 - Adaptable
   
-244839_tiny.mp4
+<video width="320" height="240" controls>
+  <source src="244839_tiny.mp4" type="video/mp4">
+</video>
