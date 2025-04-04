@@ -13,4 +13,9 @@ hr {
   border: none;
   background: url('OIP.jpeg') repeat-x center;
 }
+h2 {
+  padding-bottom: 10px;
+  font-size: 32px;
+  background: url('../OIP.jpeg') repeat-x bottom;
+}
 @import "{{ site.theme }}";
