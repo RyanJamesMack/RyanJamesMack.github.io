@@ -15,7 +15,7 @@ Major Functionality
 - Settings (with logout and Dark Mode)
 - Grade Tracker (UI & Database)
 
-Team Members
+Team Members Development Takeaways
 ------------
 - Shaheer Mohi Uddin Ansari
 - Ryan Mack
