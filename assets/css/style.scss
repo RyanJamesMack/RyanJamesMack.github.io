@@ -3,4 +3,8 @@
 footer p {
   color: #1e90ff;
 }
+footer a {
+  color: #1e90ff;
+  text-decoration: underline;
+}
 @import "{{ site.theme }}";
