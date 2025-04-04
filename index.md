@@ -34,5 +34,5 @@ Skills
 - Attention to Detail
 - Speaks French
 - Adaptable
-- 
+  
 244839_tiny.mp4
