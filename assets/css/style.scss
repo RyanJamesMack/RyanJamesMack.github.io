@@ -7,4 +7,10 @@ footer a {
   color: #1e90ff;
   text-decoration: underline;
 }
+hr {
+  height: 1px;
+  margin-bottom: 5px;
+  border: none;
+  background: url('OIP.jpeg') repeat-x center;
+}
 @import "{{ site.theme }}";
