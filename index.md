@@ -35,6 +35,4 @@ Skills
 - Speaks French
 - Adaptable
   
-<video width="320" height="240" controls>
-  <source src="244839_tiny.mp4" type="video/mp4">
-</video>
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=3Lqz4Q15VPA/0.jpg)](https://www.youtube.com/watch?v=3Lqz4Q15VPA)
