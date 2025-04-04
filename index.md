@@ -1,6 +1,3 @@
-UStep
-=========
-
 Vision Statement
 ---------
 UStep is an academic application designed to help students track their current course grades, predict their final grades based on input, and view and add course reviews for courses offered by their department.
@@ -11,20 +8,20 @@ The UStep app will serve as an educational and user-friendly tool designed to st
 
 Major Functionality
 ---------------
--Signup/Login (UI & Database)
--User Profile Setup (UI & Database)
--Course Catalog Management (UI & Database)
--Course Review (UI & Database)
--Settings (with logout and Dark Mode)
--Grade Tracker (UI & Database)
+- Signup/Login (UI & Database)
+- User Profile Setup (UI & Database)
+- Course Catalog Management (UI & Database)
+- Course Review (UI & Database)
+- Settings (with logout and Dark Mode)
+- Grade Tracker (UI & Database)
 
 Team Members
 ------------
--Shaheer Mohi Uddin Ansari
--Ryan Mack
--Hai Dang Nguyen
--Hoang Huy Truong
--Subhash Yadav
+- Shaheer Mohi Uddin Ansari
+- Ryan Mack
+- Hai Dang Nguyen
+- Hoang Huy Truong
+- Subhash Yadav
 
 Screen Recording
 ------
